@@ -1,24 +1,28 @@
 {
   "files": {
-    "main.css": "/Cursor-React--basics/static/css/main.e8a5b669.chunk.css",
-    "main.js": "/Cursor-React--basics/static/js/main.b1fc2eeb.chunk.js",
-    "main.js.map": "/Cursor-React--basics/static/js/main.b1fc2eeb.chunk.js.map",
-    "runtime-main.js": "/Cursor-React--basics/static/js/runtime-main.f10f7669.js",
-    "runtime-main.js.map": "/Cursor-React--basics/static/js/runtime-main.f10f7669.js.map",
-    "static/js/2.80f7e8b2.chunk.js": "/Cursor-React--basics/static/js/2.80f7e8b2.chunk.js",
-    "static/js/2.80f7e8b2.chunk.js.map": "/Cursor-React--basics/static/js/2.80f7e8b2.chunk.js.map",
-    "static/js/3.95f8e17f.chunk.js": "/Cursor-React--basics/static/js/3.95f8e17f.chunk.js",
-    "static/js/3.95f8e17f.chunk.js.map": "/Cursor-React--basics/static/js/3.95f8e17f.chunk.js.map",
+    "main.css": "/Cursor-React--basics/static/css/main.bbac4009.chunk.css",
+    "main.js": "/Cursor-React--basics/static/js/main.8cd32e30.chunk.js",
+    "main.js.map": "/Cursor-React--basics/static/js/main.8cd32e30.chunk.js.map",
+    "runtime-main.js": "/Cursor-React--basics/static/js/runtime-main.c38c464c.js",
+    "runtime-main.js.map": "/Cursor-React--basics/static/js/runtime-main.c38c464c.js.map",
+    "static/js/2.fccd83ec.chunk.js": "/Cursor-React--basics/static/js/2.fccd83ec.chunk.js",
+    "static/js/2.fccd83ec.chunk.js.map": "/Cursor-React--basics/static/js/2.fccd83ec.chunk.js.map",
+    "static/js/3.8b61b5ac.chunk.js": "/Cursor-React--basics/static/js/3.8b61b5ac.chunk.js",
+    "static/js/3.8b61b5ac.chunk.js.map": "/Cursor-React--basics/static/js/3.8b61b5ac.chunk.js.map",
     "index.html": "/Cursor-React--basics/index.html",
-    "static/css/main.e8a5b669.chunk.css.map": "/Cursor-React--basics/static/css/main.e8a5b669.chunk.css.map",
-    "static/js/2.80f7e8b2.chunk.js.LICENSE.txt": "/Cursor-React--basics/static/js/2.80f7e8b2.chunk.js.LICENSE.txt",
+    "static/css/main.bbac4009.chunk.css.map": "/Cursor-React--basics/static/css/main.bbac4009.chunk.css.map",
+    "static/js/2.fccd83ec.chunk.js.LICENSE.txt": "/Cursor-React--basics/static/js/2.fccd83ec.chunk.js.LICENSE.txt",
+    "static/media/arrow-down.5b0512cf.svg": "/Cursor-React--basics/static/media/arrow-down.5b0512cf.svg",
+    "static/media/checked.1aa29b1b.svg": "/Cursor-React--basics/static/media/checked.1aa29b1b.svg",
     "static/media/comment.bbfaa137.svg": "/Cursor-React--basics/static/media/comment.bbfaa137.svg",
-    "static/media/like.c31d61db.svg": "/Cursor-React--basics/static/media/like.c31d61db.svg"
+    "static/media/like.c31d61db.svg": "/Cursor-React--basics/static/media/like.c31d61db.svg",
+    "static/media/repost.0b01c33d.svg": "/Cursor-React--basics/static/media/repost.0b01c33d.svg",
+    "static/media/share.858c53d4.svg": "/Cursor-React--basics/static/media/share.858c53d4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f10f7669.js",
-    "static/js/2.80f7e8b2.chunk.js",
-    "static/css/main.e8a5b669.chunk.css",
-    "static/js/main.b1fc2eeb.chunk.js"
+    "static/js/runtime-main.c38c464c.js",
+    "static/js/2.fccd83ec.chunk.js",
+    "static/css/main.bbac4009.chunk.css",
+    "static/js/main.8cd32e30.chunk.js"
   ]
 }
